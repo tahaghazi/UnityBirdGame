@@ -1,0 +1,109 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Avoid ignoring Packages folder
+# Ignore only generated files:
+Packages/com.unity.testtools.codecoverage/
+
+# =============== #
+# Unity Cache     #
+# =============== #
+# Cache directory
+[Ll]ibrary/PackageCache/
+
+# Shader cache
+[Ll]ibrary/ShaderCache/
+
+# =============== #
+# OS Specific     #
+# =============== #
+
+# Windows
+Thumbs.db
+[Dd]esktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*.swp
+*.swo
+
+# =============== #
+# IDE / Editors   #
+# =============== #
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Rider
+.idea/
+*.iml
+
+# JetBrains Rider workspace
+.idea/
+*.iws
+
+# =============== #
+# Unity Asset Store tools #
+# =============== #
+Assets/AssetStoreTools*
+
+# =============== #
+# Unity Collaborate #
+# =============== #
+.collabignore
+
+# =============== #
+# Crash/Reports   #
+# =============== #
+sysinfo.txt
+
+# =============== #
+# Build Artifacts #
+# =============== #
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.xcodeproj/
+*.xcworkspace/
+*.ipa
+
+# =============== #
+# Others          #
+# =============== #
+*.bin
+*.obj
+*.dll
+*.mdb
+*.tmp
+*.bak
+*.log
+*.orig
+
+demo/
